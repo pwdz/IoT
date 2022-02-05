@@ -1,9 +1,9 @@
 *.mp4
 *.mkv
-HW3/
 *.zip
 *.docx
 *.odt
 *.pdf
+!Report.pdf
 *.rar
 HW4/
